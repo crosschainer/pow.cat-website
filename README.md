@@ -1,1 +1,1 @@
-Official [pow.cat](https://pow.cat) website source code.
+Official [pow.cat](https://pow.cat) website source code. Visit the testnet at [testnet.pow.cat](https://testnet.pow.cat).
